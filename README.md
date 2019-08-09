@@ -1,4 +1,4 @@
 # ML_MOOC
 My Machine Learning Mooc
 
-### ML_AndrewNg£ºCourserÉÏÎâ¶÷´ï(Andrew Ng)ÀÏÊ¦µÄ[Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome)¿Î³ÌµÄ¿Îºó±à³Ì×÷Òµ£¬¾ùÒÑÍê³É¡£
+- **ML_AndrewNgï¼šCourserä¸Šå´æ©è¾¾(Andrew Ng)è€å¸ˆçš„[Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome)è¯¾ç¨‹çš„è¯¾åç¼–ç¨‹ä½œä¸šâ€”â€”å…¨éƒ¨100åˆ†é€šè¿‡ã€‚**
